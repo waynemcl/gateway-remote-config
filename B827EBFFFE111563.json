@@ -1,0 +1,17 @@
+{
+	"gateway_conf": {
+	 	"gateway_ID": "B827EBFFFE111563",
+		"servers": [ 
+			{ "server_address": "router.eu.thethings.network",
+				"serv_port_up": 1700,
+				"serv_port_down": 1700,
+				"serv_enabled": true 
+			}
+			],
+			"ref_latitude": -43.56143902,
+			"ref_longitude": 172.69022535,
+			"ref_altitude": 5,
+			"contact_email": "ttn@embeddedengineering.co.nz",
+			"description": "rasPi rak831 test 868MHz" 
+	}
+}
